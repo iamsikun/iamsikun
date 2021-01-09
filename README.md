@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Lots of FUN stuff!
 - 🌱 I’m currently learning Reinforcement Learning & Nonconvex optimization & Financial Time Series
 - 👯 I’m looking to collaborate with researchers working on Algorithms | Optimization | Learning Theories
-- 🥅 2020 Goals: More interesting ideas! More publications!
+- 🥅 2021 Goals: More interesting ideas! More publications!
 - ⚡ Fun fact: I love badminton and basketball!!!
 
 ### Connect with me:
