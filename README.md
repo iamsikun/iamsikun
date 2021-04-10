@@ -1,6 +1,6 @@
 ### Hi there, I'm Sikun 👋
 
-## I'm a grad student at Columbia IEOR Department!
+## I'm a Ph.D. student in Olin Business School in Washington University in St. Louis
 
 - 🔭 I’m currently working on Lots of FUN stuff!
 - 🌱 I’m currently learning Reinforcement Learning & Nonconvex optimization & Financial Time Series
