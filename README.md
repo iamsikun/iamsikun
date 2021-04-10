@@ -3,8 +3,8 @@
 ## I'm a Ph.D. student in Olin Business School in Washington University in St. Louis
 
 - 🔭 I’m currently working on Lots of FUN stuff!
-- 🌱 I’m currently learning Reinforcement Learning & Nonconvex optimization & Financial Time Series
-- 👯 I’m looking to collaborate with researchers working on Algorithms | Optimization | Learning Theories
+- 🌱 I’m currently learning Reinforcement Learning & Nonconvex optimization & Quantitative Finance
+- 👯 I’m looking to collaborate with researchers working on Operations Management | FinTech | Optimization | Learning Theories
 - 🥅 2021 Goals: More interesting ideas! More publications!
 - ⚡ Fun fact: I love badminton and basketball!!!
 
