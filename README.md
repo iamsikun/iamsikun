@@ -1,12 +1,10 @@
 ### Hi there, I'm Sikun 👋
 
-## I'm a Ph.D. student in Olin Business School in Washington University in St. Louis
+## I'm a Ph.D. candidate at Olin Business School, Washington University in St. Louis
 
 - 🔭 I’m currently working on Lots of FUN stuff!
-- 🌱 I’m currently learning Reinforcement Learning & Nonconvex optimization & Quantitative Finance
-- 👯 I’m looking to collaborate with researchers working on Operations Management | FinTech | Optimization | Learning Theories
-- 🥅 2021 Goals: More interesting ideas! More publications!
-- ⚡ Fun fact: I love badminton and basketball!!!
+- 🌱 I’m currently learning Reinforcement Learning & Causal Inference
+- 🥅 2024 Goals: More exciting ideas! More publications!
 
 ### Connect with me:
 
