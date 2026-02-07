@@ -2,9 +2,8 @@
 
 ## I'm a Ph.D. candidate at Olin Business School, Washington University in St. Louis
 
-- 🔭 I’m currently working on Lots of FUN stuff!
-- 🌱 I’m currently learning Reinforcement Learning & Causal Inference
-- 🥅 2024 Goals: More exciting ideas! More publications!
+- 🔭 On the theory side, I study machine learning, causal inference, and data-driven decision-making. 
+- 🌱 On the application side, I study marketing, operations, and quantitative finance.
 
 ### Connect with me:
 
@@ -18,4 +17,4 @@
 --->
 
 [linkedin]: https://www.linkedin.com/in/sikun-xu-760685164/
-[website]: https://sites.google.com/view/sikunxu/home
+[website]: https://sikunxu.com
